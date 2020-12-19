@@ -1,3 +1,4 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
 import { render, screen } from '@testing-library/react';
 import App from './App';
 
